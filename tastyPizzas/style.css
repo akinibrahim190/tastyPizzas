@@ -1,0 +1,41 @@
+body {
+    background-color: #FCFFF5;
+    text-align: center;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.nav-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px ;
+    overflow: hidden;
+    background-color:#D1DBBD ;
+}
+
+.navbarMenu {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ .navbarMenu:hover{
+     background-color: #3E606F;
+ }
+
+ .home-content{
+     text-align: left;
+ }
+
+ .about-us-p{
+     text-align: left;
+ }
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width:100%;
+    background-color: #91AA9D;
+    color: white;
+}
+
+
